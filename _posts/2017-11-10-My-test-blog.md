@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>My Test Blog</td>
     <td>Date</td>
-    <td>10/11/17</td>
+    <td>16/11/17</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes.</td>
   </tr>
 </table>
 
@@ -39,30 +39,33 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I eventually managed to get Gabriel working.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I asked myself if I needed to download gabriel if I already had.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>When someone offered to help me i said no and did it myself. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I looked back to the beginning to see if i had got anything wrong.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>I felt like I was really concentrating on putting my work in the right folder.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have fixed some bugs in my spare time but I didn't.
+I also had some code that didn’t work.
+
+  </td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +73,8 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>As soon as I sit down I should login and try and get ready.
+I also need to check that I have the right code folder open when I’m putting something in.</td>
     <td></td>
   </tr>
 </table>
