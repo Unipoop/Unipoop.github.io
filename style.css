@@ -22,7 +22,7 @@ body {
   background-color: #330044; 
   background-image: url("https://webdesignledger.com/wp-content/uploads/2009/07/subtle_textures_4.jpg");
   background-position: center; 
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   font: 24px/1.4 $arial;
   color: #000000;
 }
