@@ -6,8 +6,8 @@ permalink: /4th-blog-post/
 source-id: 1sOf7L6vaQCGqB4CAAOY_nM3YeljSB5OoQ5WD92nMYkg
 published: true
 ---
-<table>
-  <tr>
+<table border="1">
+ <tr>
     <td>Title</td>
     <td>My 4th Blog post</td>
     <td>Date</td>
