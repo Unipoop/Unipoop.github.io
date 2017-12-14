@@ -18,7 +18,8 @@ html {
 }
 
 body {
-         background-image: url("http://thedreamingwizard.com/images/site_graphics/red_dragon_by_caiomm.jpg");
+  background-image: url("http://thedreamingwizard.com/images/site_graphics/red_dragon_by_caiomm.jpg");
+  background-position: center; 
   font: 18px/1.4 $helvetica;
   color: #33cc33;
 }
