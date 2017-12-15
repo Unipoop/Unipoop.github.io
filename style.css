@@ -20,7 +20,7 @@ html {
 
 body {
   background-color: #330044;
-	background-image: background-image: https://i.ytimg.com/vi/Kw0DYtYmaw0/maxresdefault.jpg;
+	background-image: url("paper.gif");
   background-position: center; 
   background-repeat: repeat;
   font: 24px/1.4 $arial;
