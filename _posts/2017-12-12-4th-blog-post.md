@@ -1,5 +1,5 @@
 ---
-title: 4th blog post
+title: Getting the aliens to move to a variable
 layout: post
 author: alexander.fraser
 permalink: /4th-blog-post/
