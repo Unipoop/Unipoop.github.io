@@ -87,8 +87,9 @@ a {
 }
 
 table {
-  border-size: 5;
   border-spacing: 0;
+  border: 1px solid white;
+  background-color: #984b43;
 }
 
 ul, ol {
