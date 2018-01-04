@@ -1,19 +1,13 @@
 ---
-title: My 2nd lesson assesment blog
+title: Giving a sprite movement
 layout: post
 author: alexander.fraser
 permalink: /my-2nd-lesson-assesment-blog/
 source-id: 1uhHPj6ZDhvkJdAMmxe2kfJn9c6Bs7-i26yDNydsQ0P0
 published: true
 ---
-<table>
-  <tr>
-    <td>Title</td>
-    <td>My 2nd lesson assesment blog</td>
-    <td>Date</td>
-    <td>23/10/17</td>
-  </tr>
-</table>
+<table>23/10/17
+ </table>
 
 
 <table>
