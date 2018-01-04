@@ -6,14 +6,8 @@ permalink: /my-test-blog/
 source-id: 1e1Uq-XgGJjci7Qh6hhQ3t4vzRv19_N-qVgWODs27wTU
 published: true
 ---
-<table>
-  <tr>
-    <td>Title</td>
-    <td>My Test Blog</td>
-    <td>Date</td>
-    <td>16/11/17</td>
-  </tr>
-</table>
+<table>16/10/17
+  </table>
 
 
 <table>
