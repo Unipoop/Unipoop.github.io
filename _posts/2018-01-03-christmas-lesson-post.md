@@ -6,14 +6,8 @@ permalink: /christmas-lesson-post/
 source-id: 1raObAhO3M-yOXoMj7BCyVP05MvUvbB8XkmqVdnbHw9I
 published: true
 ---
-<table>
-  <tr>
-    <td>Title</td>
-    <td>Christmas Blogs</td>
-    <td>Date</td>
-    <td>15/12/17</td>
-  </tr>
-</table>
+<table>15/12/17
+  </table>
 
 
 <table>
