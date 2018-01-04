@@ -7,12 +7,7 @@ source-id: 1sOf7L6vaQCGqB4CAAOY_nM3YeljSB5OoQ5WD92nMYkg
 published: true
 ---
 <table>
- <tr>
-    <td>Title</td>
-    <td>My 4th Blog post</td>
-    <td>Date</td>
-    <td>12/12/17</td>
-  </tr>
+ 12/12/17
 </table>
 
 
