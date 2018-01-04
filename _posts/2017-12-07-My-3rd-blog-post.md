@@ -1,18 +1,12 @@
 ---
-title: My 3rd blog post
+title: Making two rows of moving aliens
 layout: post
 author: alexander.fraser
 permalink: /my-3rd-blog-post/
 source-id: 1Gj6OrePTvSuD-doIAKXcpKr__sI362ADJsvGHr-Tq64
 published: true
 ---
-<table>
-  <tr>
-    <td>Title</td>
-    <td>My 3rd Blog Post</td>
-    <td>Date</td>
-    <td>04/12/17</td>
-  </tr>
+<table> hi
 </table>
 
 
