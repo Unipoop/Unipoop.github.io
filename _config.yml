@@ -7,7 +7,9 @@ name: SirGeekasaurus
 # Short bio or description (displayed in the header)
 description: My animals will eat you alive!!!!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
+avatar:  https://media.giphy.com/media/3o6EhKkXP6icIWbY9q/giphy.gif
+border: 1px solid white;
+  
 
 #
 # Flags below are optional
