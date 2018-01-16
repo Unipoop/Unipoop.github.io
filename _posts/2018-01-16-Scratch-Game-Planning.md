@@ -7,12 +7,7 @@ source-id: 1N5c50ek2iVPQtEGpI_QWuhVCyKrVI4bTFEsWNNmh1PI
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>Scratch Game Planning</td>
-    <td>Date</td>
-    <td>16/01/18</td>
-  </tr>
+  16/01/18
 </table>
 
 
