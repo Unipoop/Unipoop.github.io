@@ -7,12 +7,7 @@ source-id: 1BqbfyxphPwywNIhUf3Dj8Z0gqIuQSuOtbjThWjawcMQ
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>The last lesson of game making</td>
-    <td>Date</td>
-    <td>30/01/18</td>
-  </tr>
+ 30/01/18
 </table>
 
 
