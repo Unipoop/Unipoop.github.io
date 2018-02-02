@@ -7,12 +7,7 @@ source-id: 1kFoAXcKV9bI0Q2ZVAirDMzipfdfPcJgXwaTsr5e7New
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>Peer assessing our games </td>
-    <td>Date</td>
-    <td>02/02/18</td>
-  </tr>
+  02/02/18
 </table>
 
 
