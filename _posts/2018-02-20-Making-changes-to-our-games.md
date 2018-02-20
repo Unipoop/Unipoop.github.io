@@ -7,13 +7,7 @@ source-id: 1zHcO7A_uF1SGS1rtvepgv53O4HzWk0H7jvfDsEHRp7Y
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>Making changes to our games</td>
-    <td>Date</td>
-    <td>20/02/18</td>
-  </tr>
-</table>
+ </table>
 
 
 <table>
