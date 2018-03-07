@@ -7,12 +7,7 @@ source-id: 1tFq5FNb3DfbeaHRdQOpt-BlYEUsGIYY7wt8U1oM57LI
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>My Time On Blockly Games</td>
-    <td>Date</td>
-    <td>07/03/18</td>
-  </tr>
+  7/03/18
 </table>
 
 
