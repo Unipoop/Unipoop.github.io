@@ -21,7 +21,7 @@ html {
 
 body {
   background-color: red;
-  background-image: ("http://www.villalydia.co.uk/images/logoimage.jpg");
+  background-image: url("http://www.villalydia.co.uk/images/logoimage.jpg");
   background-position: center; 
   background-repeat: repeat;
   font: 24px/1.4 arial;
