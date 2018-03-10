@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+I'm a student at Dr Challoners Grammer School and I put up posts on this blog about my I.T lessons.
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
