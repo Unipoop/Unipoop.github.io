@@ -6,9 +6,7 @@ permalink: /about/
 
 I'm a student at Dr Challoners Grammer School and I put up posts on this blog about my I.T lessons.
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I play video games on my Xbox, so the idea of coding and making my own games excites me and I really want to get into it. 
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Please Don't!!!
