@@ -7,12 +7,7 @@ source-id: 1q1bpN4fL82k_9DIRwzT6Yy2-EFdz4ntpIdcXz6IUbjo
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>My Lesson On Lightbot</td>
-    <td>Date</td>
-    <td>10/03/18</td>
-  </tr>
+  10/03/18
 </table>
 
 
