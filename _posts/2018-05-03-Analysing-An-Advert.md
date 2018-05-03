@@ -7,12 +7,7 @@ source-id: 1tJFZ8AVHX4IEFSrkKAWfvIjqP3eDtfGCKuSlyRsa8hQ
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>Analysing An Advert</td>
-    <td>Date</td>
-    <td>03/05/18</td>
-  </tr>
+  03/05/18
 </table>
 
 
