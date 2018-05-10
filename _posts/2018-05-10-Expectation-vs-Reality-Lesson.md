@@ -7,12 +7,7 @@ source-id: 11mujtg5Lhw4jR64sGvlZ9Gv6HPBObjAOe_4VG8q1dsM
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>Determining What Is Real</td>
-    <td>Date</td>
-    <td>10/05/18</td>
-  </tr>
+  10/05/2018
 </table>
 
 
