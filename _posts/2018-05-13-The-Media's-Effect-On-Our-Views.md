@@ -6,7 +6,9 @@ permalink: /the-media's-effect-on-our-views/
 source-id: 1h-OM_kQQJVmF6PFbLPfrJzOzZb6-SSpgSrMGl_SxQQA
 published: true
 ---
-13/05/18
+<table>
+  13/05/18
+</table>
 <table>
   <tr>
     <td>Starting point:</td>
