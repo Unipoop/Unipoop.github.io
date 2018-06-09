@@ -7,12 +7,7 @@ source-id: 1VAv8-5j2IE0IFDQAgu5tUh1BN95Tkj4-gZvzXSufKw8
 published: true
 ---
 <table>
-  <tr>
-    <td>Title</td>
-    <td>Twitter The Musical</td>
-    <td>Date</td>
-    <td>09/06/18</td>
-  </tr>
+  09/06/18
 </table>
 
 
